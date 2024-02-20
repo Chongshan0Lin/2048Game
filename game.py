@@ -122,7 +122,6 @@ def main():
             board = move_down(board)
         elif direction == 'D':
             board = move_right(board)
-        # add_new_tile(board)
 
 
 if __name__ == "__main__":
